@@ -1,4 +1,4 @@
-#eCommerce Website
+# eCommerce Website
 This project is an eCommerce website built using HTML, CSS, and JavaScript. It includes features such as product listings, a shopping cart, and responsive design.
 
 Features
